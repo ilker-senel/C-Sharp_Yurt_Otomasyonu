@@ -2,4 +2,4 @@
 C# Yurt Otomasyonu
 
 Projenin github'a yüklenmesinde bir takım problemler olduğu için proje rar dosyası olarak yüklendi.
-Rar doyasını açıp sql ve savefiledialog adreslerini ayarladıktan sonra projeyi çalıştırabilirsiniz.
+Rar doyasını açıp sql ve savefiledialog adreslerini ayarladıktan sonra projeyi sorunsuz bir şekilde çalıştırabilirsiniz.
