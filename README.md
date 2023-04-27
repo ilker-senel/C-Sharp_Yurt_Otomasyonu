@@ -6,7 +6,7 @@ frmNotEkle formundan saveFileDialog1.InitialDirectory'nin ve SqlBaglantim Class�
 
 --Proje Bilgileri
 
-C# Yurt Otomasyon Projesi
+C# Yurt Otomasyon Projesi:
 MSSQL veritabanı kullanıldı.
 Ado.Net üzerinden SQL komutları oluşturuldu.
 Bu proje Murat Yücedağın eğitim videolarından destek alınarak hazırlanmıştır.
