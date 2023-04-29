@@ -1,5 +1,13 @@
 # C-Sharp_Yurt_Otomasyonu
 C# Yurt Otomasyonu
 
-Projenin github'a yüklenmesinde bir takım problemler olduğu için proje rar dosyası olarak yüklendi.
-Rar doyasını açıp sql ve savefiledialog adreslerini ayarladıktan sonra projeyi sorunsuz bir şekilde çalıştırabilirsiniz.
+App.config dosyasındaki connectionString adresini kurduğunuz database in adresine göre değiştirin.
+frmNotEkle formundan saveFileDialog1.InitialDirectory  nin adresini kendi adresinize göre değiştiriniz.
+
+--Proje Bilgileri
+
+C# Yurt Otomasyon Projesi:
+MSSQL veritabanı kullanıldı.
+Bu proje Murat Yücedağın eğitim videolarından destek alınarak hazırlanmıştır.
+Murat Yücedağ youtube kanalı:
+https://www.youtube.com/channel/UCbkbOlw8snP93RJ2BhH44Qw
