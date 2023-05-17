@@ -1,5 +1,7 @@
 # C-Sharp_Yurt_Otomasyonu
 C# Yurt Otomasyonu
+kullanıcı adı şifre admin admin
+kullanıcı şifre2 1234 1234
 
 App.config dosyasındaki connectionString adresini kurduğunuz database in adresine göre değiştirin.
 frmNotEkle formundan saveFileDialog1.InitialDirectory  nin adresini kendi adresinize göre değiştiriniz.
