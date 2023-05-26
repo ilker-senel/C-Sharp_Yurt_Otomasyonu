@@ -12,6 +12,7 @@ C# Yurt Otomasyon Projesi:
 MSSQL veritabanı kullanıldı.
 Bu proje Murat Yücedağın eğitim videolarından destek alınarak hazırlanmıştır.
 Murat Yücedağ youtube kanalı: https://www.youtube.com/channel/UCbkbOlw8snP93RJ2BhH44Qw
+
 ![image](https://github.com/illkkeerr/C-Sharp_Yurt_Otomasyonu/assets/129404140/0fd87965-0290-4ea0-947f-4251d697dbc8)
 ![image](https://github.com/illkkeerr/C-Sharp_Yurt_Otomasyonu/assets/129404140/5506a0ba-40dc-4336-a001-9a5d928fd55f)
 ![image](https://github.com/illkkeerr/C-Sharp_Yurt_Otomasyonu/assets/129404140/422c68b0-9c96-4e32-b87c-fb166c278506)
